@@ -281,7 +281,7 @@ body .body-innerwrapper {
     padding-top: 15px;
 }
 #sp-header-wrapper .logo-wrapper .logo {
-    background: url(/img/logo-37.png) no-repeat 0 50%;
+    background: url(../img/logo-37.png) no-repeat 0 50%;
 }
 #sp-header-wrapper .logo-wrapper .logo-text {
     font-size: 24px;
